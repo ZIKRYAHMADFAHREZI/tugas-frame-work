@@ -27,7 +27,19 @@ Dokumentasi ini menjelaskan langkah-langkah instalasi **Laragon**, **Laravel**, 
 ### 1. Install Composer (Jika Belum)
 Download dan install Composer dari:  
 👉 [https://getcomposer.org/download/](https://getcomposer.org/download/)
-
 Cek instalasi Composer:
 ```bash
 composer --version
+
+
+2. Install Laravel via Composer
+Buka Terminal atau CMD lewat Laragon.
+
+Masuk ke direktori C:\laragon\www
+
+Jalankan perintah berikut:
+![Download Laragon](Datamining/1.png)
+bash
+Copy
+Edit
+composer create-project laravel/laravel nama-project-kamu
