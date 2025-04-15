@@ -11,13 +11,14 @@ Dokumentasi ini menjelaskan langkah-langkah instalasi **Laragon**, **Laravel**, 
 
 1. Download **Laragon** dari situs resmi:  
    👉 [https://laragon.org/download/](https://laragon.org/download/)
-   ![Download Laragon](Datamining/1.png)
+   ![Download Laragon](Datamining/3.png)
 
 3. Install Laragon seperti biasa (Next → Next → Finish).
 
 4. Buka Laragon, klik **Start All**.
+   ![Download Laragon](Datamining/2.png)
 
-5. Pastikan `Apache` dan `MySQL` berjalan.
+6. Pastikan `Apache` dan `MySQL` berjalan.
 
 ---
 
