@@ -11,7 +11,7 @@ Dokumentasi ini menjelaskan langkah-langkah instalasi **Laragon**, **Laravel**, 
 
 1. Download **Laragon** dari situs resmi:  
    👉 [https://laragon.org/download/](https://laragon.org/download/)
-   ![Download Laragon](datamining/.png)
+   ![Download Laragon](Datamining/1.png)
 
 3. Install Laragon seperti biasa (Next → Next → Finish).
 
