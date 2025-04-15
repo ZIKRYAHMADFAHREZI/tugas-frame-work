@@ -32,14 +32,11 @@ Cek instalasi Composer:
 composer --version
 
 
-2. Install Laravel via Composer
+### 2. Install Laravel via Composer
 Buka Terminal atau CMD lewat Laragon.
 
 Masuk ke direktori C:\laragon\www
 
 Jalankan perintah berikut:
 ![Download Laragon](Datamining/1.png)
-bash
-Copy
-Edit
-composer create-project laravel/laravel nama-project-kamu
+
