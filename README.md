@@ -1,4 +1,7 @@
-# tugas-frame-work
+# Tugas-Frame-Work
 
 
-awal mula
+1. Donwload laragon.
+   https://laragon.org/download/
+
+   
