@@ -28,5 +28,5 @@ Dokumentasi ini menjelaskan langkah-langkah instalasi **Laragon**, **Laravel**, 
 Download dan install Composer dari:  
 👉 [https://getcomposer.org/download/](https://getcomposer.org/download/)
 Cek instalasi Composer:
-```bash
 ![Download Laragon](Datamining/1.png)
+```bash
