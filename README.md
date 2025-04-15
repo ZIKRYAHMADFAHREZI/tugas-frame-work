@@ -29,10 +29,9 @@ Download dan install Composer dari:
 👉 [https://getcomposer.org/download/](https://getcomposer.org/download/)
 Cek instalasi Composer:
 ```bash
-composer --version
 
 
-## 2. Install Laravel via Composer
+### 1. Install Composer (Jika Belum)
 Buka Terminal atau CMD lewat Laragon.
 
 Masuk ke direktori C:\laragon\www
