@@ -29,12 +29,4 @@ Download dan install Composer dari:
 👉 [https://getcomposer.org/download/](https://getcomposer.org/download/)
 Cek instalasi Composer:
 ```bash
-
-
-### 1. Install Composer (Jika Belum)
-Buka Terminal atau CMD lewat Laragon.
-
-Masuk ke direktori C:\laragon\www
-
-
 ![Download Laragon](Datamining/1.png)
